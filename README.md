@@ -1,6 +1,6 @@
 ### Hi, I'm Suganthan 👋
 
-I'm an SEO professional and co-founder of **Snippet Digital** (SEO and AI SEO Agency) and **Keyword Insights** (SEO Topical Authority and AI Search Visibility platform). I build open-source MCP servers and Claude skills that put real SEO data, Search Console, GA4, BigQuery and Ahrefs, into the hands of AI. I write about technical and AI SEO over at [suganthan.com](https://suganthan.com/).
+I'm an Search Journey Optimisation professional and co-founder of **Snippet Digital** (SEO and AI SEO Agency) and **Keyword Insights** (SEO Topical Authority and AI Search Visibility platform). I build open-source MCP servers and Claude skills that put real SEO data, Search Console, GA4, BigQuery and Ahrefs, into the hands of AI. I write about technical and AI SEO over at [suganthan.com](https://suganthan.com/).
 
 Some of what I've built:
 
