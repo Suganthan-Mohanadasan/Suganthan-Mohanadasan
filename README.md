@@ -29,11 +29,11 @@ I'm the co-founder of Snippet Digital, an AI SEO agency, and Keyword Insights, a
 ### Latest writing
 
 <!-- LATEST-WRITING:START -->
+- [How to Find Out Who Gemini Cites for Your Query, and Why It Isn't You](https://suganthan.com/blog/gemini-citations/) · 12 Oct 2026
 - [Your Google Search Console queries need context](https://suganthan.com/blog/keyword-relevance-filter/) · 23 Sep 2026
 - [I made my website charge AI agents a penny per page. Then I watched Claude pay it.](https://suganthan.com/blog/x402-pay-per-crawl/) · 15 Sep 2026
 - [One Page Earned 102,657 Image Impressions and 2 Clicks. I Shipped 8 Free Tools That Find Pages Like It.](https://suganthan.com/blog/gsc-mcp-image-seo-tools/) · 27 Aug 2026
 - [ChatGPT Searches Individual Subreddits by Name](https://suganthan.com/blog/chatgpt-searches-subreddits/) · 25 Aug 2026
-- [ChatGPT Rebuilt Its Search Tool. I Read the New Language It Speaks.](https://suganthan.com/blog/chatgpt-new-search-language/) · 21 Aug 2026
 <!-- LATEST-WRITING:END -->
 
 More on [the blog](https://suganthan.com/blog/) and in the [AI SEO research tracker](https://suganthan.com/ai-seo-research/). What I'm working on this month is on my [now page](https://suganthan.com/now/).
